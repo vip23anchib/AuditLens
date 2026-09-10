@@ -1,0 +1,103 @@
+vendor_id,vendor_name,primary_department,risk_tier
+VND-1001,Amazon Web Services Inc,Information Technology,Low
+VND-1002,Microsoft Azure Cloud,Information Technology,Low
+VND-1003,Snowflake Data Inc,Information Technology,Low
+VND-1004,CrowdStrike Security,Information Technology,Low
+VND-1005,Cisco Systems Inc,Information Technology,Medium
+VND-1006,Dell Enterprise Direct,Information Technology,Low
+VND-1007,Google Advertising LLC,Marketing & Sales,Low
+VND-1008,Meta Platforms Ads,Marketing & Sales,Low
+VND-1009,Ogilvy & Mather Creative,Marketing & Sales,Low
+VND-1010,HubSpot Inc,Marketing & Sales,Medium
+VND-1011,Gartner Research,Marketing & Sales,Low
+VND-1012,Salesforce CRM Direct,Marketing & Sales,Low
+VND-1013,Latham & Watkins LLP,Corporate Legal,Low
+VND-1014,Skadden Arps Slate,Corporate Legal,Low
+VND-1015,Thomson Reuters Westlaw,Corporate Legal,Medium
+VND-1016,LexisNexis Compliance,Corporate Legal,Low
+VND-1017,DLA Piper International,Corporate Legal,Low
+VND-1018,Korn Ferry Executive Search,Human Resources,Low
+VND-1019,Workday Human Capital,Human Resources,Low
+VND-1020,LinkedIn Talent Solutions,Human Resources,Medium
+VND-1021,Aetna Corporate Health,Human Resources,Low
+VND-1022,BetterUp Coaching Inc,Human Resources,Low
+VND-1023,FedEx Enterprise Logistics,Operations & Logistics,Low
+VND-1024,DHL Express Global,Operations & Logistics,Low
+VND-1025,Maersk Shipping Line,Operations & Logistics,Medium
+VND-1026,Penske Truck Leasing,Operations & Logistics,Low
+VND-1027,Grainger Industrial Supply,Operations & Logistics,Low
+VND-1028,Deloitte & Touche LLP,Finance & Administration,Low
+VND-1029,PwC Advisory LLC,Finance & Administration,Low
+VND-1030,WeWork Global Operations,Finance & Administration,Medium
+VND-1031,Staples Business Advantage,Finance & Administration,Low
+VND-1032,Bloomberg Finance LP,Finance & Administration,Low
+VND-1033,"Rodriguez, Figueroa and Sanchez LLC",Finance & Administration,Low
+VND-1034,Doyle Ltd Inc,Corporate Legal,Low
+VND-1035,"Mcclain, Miller and Henderson LLC",Finance & Administration,Low
+VND-1036,Davis and Sons LLC,Operations & Logistics,Low
+VND-1037,"Guzman, Hoffman and Baldwin LLC",Information Technology,Low
+VND-1038,"Gardner, Robinson and Lawrence Group",Marketing & Sales,Low
+VND-1039,Blake and Sons Inc,Operations & Logistics,Low
+VND-1040,"Henderson, Ramirez and Lewis Group",Finance & Administration,Low
+VND-1041,Garcia-James Group,Human Resources,Low
+VND-1042,Abbott-Munoz Inc,Information Technology,Low
+VND-1043,Blair PLC Corp,Corporate Legal,Low
+VND-1044,Dudley Group LLC,Corporate Legal,Low
+VND-1045,Arnold Ltd Corp,Information Technology,Medium
+VND-1046,"Mcclure, Ward and Lee Corp",Operations & Logistics,Medium
+VND-1047,Williams and Sons Solutions,Finance & Administration,Low
+VND-1048,Galloway-Wyatt LLC,Human Resources,Low
+VND-1049,James Group Group,Finance & Administration,Medium
+VND-1050,"Flowers, Martin and Kelly Group",Corporate Legal,Low
+VND-1051,"Adams, Zuniga and Wong LLC",Information Technology,Low
+VND-1052,"Reid, Ferguson and Sanchez LLC",Corporate Legal,Medium
+VND-1053,Gray-Mayo Solutions,Information Technology,Low
+VND-1054,"Watts, Robinson and Nguyen Corp",Finance & Administration,Low
+VND-1055,Perez Inc Inc,Corporate Legal,Low
+VND-1056,Morales-Jones Services,Finance & Administration,Low
+VND-1057,"Walter, Edwards and Rios Services",Operations & Logistics,Low
+VND-1058,Wilkerson-Day Inc,Finance & Administration,Low
+VND-1059,Baker and Sons Corp,Human Resources,High
+VND-1060,"Hoffman, Baker and Richards Services",Finance & Administration,Low
+VND-1061,"Ross, Robinson and Bright Corp",Finance & Administration,Medium
+VND-1062,"Snyder, Campos and Callahan Inc",Information Technology,Medium
+VND-1063,Burton Ltd Solutions,Corporate Legal,Low
+VND-1064,Carlson-Cruz Group,Marketing & Sales,Medium
+VND-1065,"Ferrell, Rice and Maddox Inc",Corporate Legal,Low
+VND-1066,Frazier Inc Services,Human Resources,Low
+VND-1067,"Dyer, Potter and Mack Inc",Corporate Legal,Low
+VND-1068,Rodriguez-Graham Group,Operations & Logistics,Low
+VND-1069,Smith-Bowen Solutions,Operations & Logistics,Medium
+VND-1070,"Baker, Mason and White Corp",Human Resources,Low
+VND-1071,Harrell LLC Group,Marketing & Sales,Low
+VND-1072,"Romero, Gonzalez and Brooks LLC",Information Technology,Low
+VND-1073,Ryan PLC Services,Marketing & Sales,Low
+VND-1074,George Group Solutions,Information Technology,Low
+VND-1075,Rodriguez LLC Group,Human Resources,Low
+VND-1076,Allen-Allen LLC,Operations & Logistics,Low
+VND-1077,"Arroyo, Miller and Tucker Services",Information Technology,Medium
+VND-1078,Spence PLC Services,Corporate Legal,Low
+VND-1079,Anderson Group Solutions,Corporate Legal,Low
+VND-1080,"Martin, Rose and Obrien Services",Information Technology,Medium
+VND-1081,Hickman Ltd Group,Corporate Legal,Low
+VND-1082,"Harris, Collins and Carney LLC",Operations & Logistics,Medium
+VND-1083,"Brooks, Lam and Hayes Services",Corporate Legal,Low
+VND-1084,Walker LLC Inc,Marketing & Sales,Low
+VND-1085,Chapman and Sons Group,Marketing & Sales,Medium
+VND-1086,"Robinson, Jones and Welch LLC",Operations & Logistics,Low
+VND-1087,Jones Inc LLC,Human Resources,Low
+VND-1088,Jones-Young Corp,Corporate Legal,Low
+VND-1089,"Washington, Ryan and Cummings Group",Marketing & Sales,Medium
+VND-1090,"Johnston, Sanchez and Kennedy Services",Information Technology,Low
+VND-1091,Lee-Davis Group,Information Technology,Low
+VND-1092,Gomez-Jenkins Services,Marketing & Sales,Low
+VND-1093,"Brown, Valdez and Lucas Inc",Operations & Logistics,Low
+VND-1094,Powell LLC Solutions,Operations & Logistics,High
+VND-1095,Wright and Sons Services,Operations & Logistics,Low
+VND-1096,"West, Henderson and Ramirez Corp",Finance & Administration,Low
+VND-1097,Baxter Inc Services,Finance & Administration,Low
+VND-1098,Morton-Chase Solutions,Operations & Logistics,Low
+VND-1099,Williams PLC LLC,Marketing & Sales,Low
+VND-1100,Novak and Sons Group,Operations & Logistics,Low
+VND-1101,Russell Group LLC,Marketing & Sales,Low
+VND-1102,Hancock Inc LLC,Finance & Administration,Low
