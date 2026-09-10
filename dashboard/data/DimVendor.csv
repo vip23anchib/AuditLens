@@ -1,0 +1,103 @@
+vendor_id,vendor_name,primary_department,risk_tier,Total_Invoiced,Invoice_Count,Duplicate_Invoice_Count,Flagged_Count,Avg_Risk_Score
+VND-1001,Amazon Web Services Inc,Information Technology,Low,18029961.03,1347,30,196,4.29101707498144
+VND-1002,Microsoft Azure Cloud,Information Technology,Low,16389514.97,1401,26,193,4.097073518915061
+VND-1003,Snowflake Data Inc,Information Technology,Low,18094209.39,1324,42,225,5.154833836858006
+VND-1004,CrowdStrike Security,Information Technology,Low,17003441.7,1423,36,217,4.673225579761068
+VND-1005,Cisco Systems Inc,Information Technology,Medium,18288354.75,1339,32,204,4.611650485436893
+VND-1006,Dell Enterprise Direct,Information Technology,Low,18535811.8,1322,8,184,4.0658093797276855
+VND-1007,Google Advertising LLC,Marketing & Sales,Low,12017041.0,1248,26,154,3.8541666666666665
+VND-1008,Meta Platforms Ads,Marketing & Sales,Low,12417965.95,1264,18,151,4.117879746835443
+VND-1009,Ogilvy & Mather Creative,Marketing & Sales,Low,12730320.9,1306,38,176,4.437212863705972
+VND-1010,HubSpot Inc,Marketing & Sales,Medium,11947091.77,1289,30,177,4.282389449185415
+VND-1011,Gartner Research,Marketing & Sales,Low,11648640.21,1253,22,149,4.022346368715084
+VND-1012,Salesforce CRM Direct,Marketing & Sales,Low,11747011.68,1275,18,146,3.8
+VND-1013,Latham & Watkins LLP,Corporate Legal,Low,10919901.64,655,18,114,4.862595419847328
+VND-1014,Skadden Arps Slate,Corporate Legal,Low,13843758.01,703,14,119,4.7155049786628735
+VND-1015,Thomson Reuters Westlaw,Corporate Legal,Medium,9501981.96,604,6,93,4.428807947019868
+VND-1016,LexisNexis Compliance,Corporate Legal,Low,9252563.91,612,8,99,4.264705882352941
+VND-1017,DLA Piper International,Corporate Legal,Low,10096362.91,604,18,112,5.4801324503311255
+VND-1018,Korn Ferry Executive Search,Human Resources,Low,8378630.91,1172,14,117,3.250853242320819
+VND-1019,Workday Human Capital,Human Resources,Low,9339312.18,1197,30,134,3.5964912280701755
+VND-1020,LinkedIn Talent Solutions,Human Resources,Medium,8163726.100000001,1229,24,133,3.6533767290480066
+VND-1021,Aetna Corporate Health,Human Resources,Low,8771613.44,1166,18,124,3.734991423670669
+VND-1022,BetterUp Coaching Inc,Human Resources,Low,9096899.66,1171,24,128,3.74466268146883
+VND-1023,FedEx Enterprise Logistics,Operations & Logistics,Low,10000001.66,846,14,113,4.048463356973995
+VND-1024,DHL Express Global,Operations & Logistics,Low,9489915.05,818,20,112,4.290953545232274
+VND-1025,Maersk Shipping Line,Operations & Logistics,Medium,9689908.27,838,12,110,3.89618138424821
+VND-1026,Penske Truck Leasing,Operations & Logistics,Low,8377876.63,817,14,111,4.069767441860465
+VND-1027,Grainger Industrial Supply,Operations & Logistics,Low,10442173.56,863,24,118,4.14252607184241
+VND-1028,Deloitte & Touche LLP,Finance & Administration,Low,9082994.93,770,12,109,4.064935064935065
+VND-1029,PwC Advisory LLC,Finance & Administration,Low,9282676.4,740,24,119,5.20945945945946
+VND-1030,WeWork Global Operations,Finance & Administration,Medium,9821779.040000001,790,8,98,3.4936708860759493
+VND-1031,Staples Business Advantage,Finance & Administration,Low,10165441.69,823,16,128,4.3438639125151886
+VND-1032,Bloomberg Finance LP,Finance & Administration,Low,9191054.13,787,22,114,4.282083862770013
+VND-1033,"Rodriguez, Figueroa and Sanchez LLC",Finance & Administration,Low,10609773.58,765,20,115,4.405228758169935
+VND-1034,Doyle Ltd Inc,Corporate Legal,Low,9863520.23,656,14,114,4.862804878048781
+VND-1035,"Mcclain, Miller and Henderson LLC",Finance & Administration,Low,11319995.74,803,16,126,4.4707347447073476
+VND-1036,Davis and Sons LLC,Operations & Logistics,Low,10392893.37,842,28,122,4.536817102137767
+VND-1037,"Guzman, Hoffman and Baldwin LLC",Information Technology,Low,16162942.54,1371,30,205,4.452954048140044
+VND-1038,"Gardner, Robinson and Lawrence Group",Marketing & Sales,Low,11724499.93,1238,28,160,4.450726978998384
+VND-1039,Blake and Sons Inc,Operations & Logistics,Low,11845436.72,850,24,131,4.658823529411765
+VND-1040,"Henderson, Ramirez and Lewis Group",Finance & Administration,Low,9577896.25,746,16,103,4.1554959785522785
+VND-1041,Garcia-James Group,Human Resources,Low,8099929.899999999,1154,26,118,3.4098786828422876
+VND-1042,Abbott-Munoz Inc,Information Technology,Low,16522789.33,1376,36,207,4.444040697674419
+VND-1043,Blair PLC Corp,Corporate Legal,Low,9804104.86,604,12,107,5.041390728476821
+VND-1044,Dudley Group LLC,Corporate Legal,Low,10828621.02,614,12,108,4.85342019543974
+VND-1045,Arnold Ltd Corp,Information Technology,Medium,15981209.59,1321,28,199,4.348978046934141
+VND-1046,"Mcclure, Ward and Lee Corp",Operations & Logistics,Medium,9846649.53,830,34,126,4.602409638554217
+VND-1047,Williams and Sons Solutions,Finance & Administration,Low,9525976.13,777,14,118,4.575289575289576
+VND-1048,Galloway-Wyatt LLC,Human Resources,Low,7293670.06,1183,32,135,3.8799661876584954
+VND-1049,James Group Group,Finance & Administration,Medium,10521740.62,774,16,102,4.108527131782946
+VND-1050,"Flowers, Martin and Kelly Group",Corporate Legal,Low,9050876.7,681,12,99,3.9794419970631423
+VND-1051,"Adams, Zuniga and Wong LLC",Information Technology,Low,13851218.62,1386,20,173,3.5064935064935066
+VND-1052,"Reid, Ferguson and Sanchez LLC",Corporate Legal,Medium,14259398.7,653,14,124,5.2756508422664625
+VND-1053,Gray-Mayo Solutions,Information Technology,Low,15996243.95,1349,28,212,4.633061527057079
+VND-1054,"Watts, Robinson and Nguyen Corp",Finance & Administration,Low,11060311.94,773,24,132,5.0646830530401035
+VND-1055,Perez Inc Inc,Corporate Legal,Low,10042101.56,617,12,90,3.946515397082658
+VND-1056,Morales-Jones Services,Finance & Administration,Low,10892826.83,787,20,134,5.285895806861499
+VND-1057,"Walter, Edwards and Rios Services",Operations & Logistics,Low,8857560.99,834,8,90,3.183453237410072
+VND-1058,Wilkerson-Day Inc,Finance & Administration,Low,11941801.93,785,18,122,4.522292993630574
+VND-1059,Baker and Sons Corp,Human Resources,High,8980474.35,1126,2,106,3.1838365896980463
+VND-1060,"Hoffman, Baker and Richards Services",Finance & Administration,Low,10920516.49,772,12,128,4.760362694300518
+VND-1061,"Ross, Robinson and Bright Corp",Finance & Administration,Medium,10416810.01,770,20,123,4.642857142857143
+VND-1062,"Snyder, Campos and Callahan Inc",Information Technology,Medium,18097859.01,1332,28,202,4.5307807807807805
+VND-1063,Burton Ltd Solutions,Corporate Legal,Low,11704267.53,610,12,105,4.868852459016393
+VND-1064,Carlson-Cruz Group,Marketing & Sales,Medium,12639094.74,1247,20,160,4.021651964715317
+VND-1065,"Ferrell, Rice and Maddox Inc",Corporate Legal,Low,12088417.99,633,18,114,5.363349131121643
+VND-1066,Frazier Inc Services,Human Resources,Low,8596943.97,1205,30,148,4.132780082987552
+VND-1067,"Dyer, Potter and Mack Inc",Corporate Legal,Low,10477006.9,691,6,105,4.109985528219971
+VND-1068,Rodriguez-Graham Group,Operations & Logistics,Low,10582481.54,860,10,107,3.7790697674418605
+VND-1069,Smith-Bowen Solutions,Operations & Logistics,Medium,10748268.77,847,8,122,4.3919716646989375
+VND-1070,"Baker, Mason and White Corp",Human Resources,Low,8391552.43,1201,32,146,4.1548709408825975
+VND-1071,Harrell LLC Group,Marketing & Sales,Low,10467354.61,1298,26,145,3.463020030816641
+VND-1072,"Romero, Gonzalez and Brooks LLC",Information Technology,Low,17256288.81,1401,36,198,4.4147037830121345
+VND-1073,Ryan PLC Services,Marketing & Sales,Low,10334177.06,1270,28,166,4.165354330708661
+VND-1074,George Group Solutions,Information Technology,Low,16758827.56,1375,30,197,4.290909090909091
+VND-1075,Rodriguez LLC Group,Human Resources,Low,8798293.4,1244,24,116,3.235530546623794
+VND-1076,Allen-Allen LLC,Operations & Logistics,Low,9063368.0,868,10,118,4.078341013824885
+VND-1077,"Arroyo, Miller and Tucker Services",Information Technology,Medium,14728735.13,1250,20,174,4.168
+VND-1078,Spence PLC Services,Corporate Legal,Low,10556474.11,617,4,98,4.367909238249595
+VND-1079,Anderson Group Solutions,Corporate Legal,Low,11714454.35,674,20,123,5.422848664688427
+VND-1080,"Martin, Rose and Obrien Services",Information Technology,Medium,17612492.58,1363,36,192,4.541452677916361
+VND-1081,Hickman Ltd Group,Corporate Legal,Low,12468255.7,677,16,123,4.903988183161005
+VND-1082,"Harris, Collins and Carney LLC",Operations & Logistics,Medium,9258858.22,851,14,116,4.012925969447709
+VND-1083,"Brooks, Lam and Hayes Services",Corporate Legal,Low,8545335.09,649,26,110,4.907550077041602
+VND-1084,Walker LLC Inc,Marketing & Sales,Low,13070355.84,1228,24,162,4.226384364820847
+VND-1085,Chapman and Sons Group,Marketing & Sales,Medium,13426215.49,1242,26,160,4.327697262479871
+VND-1086,"Robinson, Jones and Welch LLC",Operations & Logistics,Low,9739593.56,856,18,120,4.001168224299065
+VND-1087,Jones Inc LLC,Human Resources,Low,7960505.89,1174,30,120,3.5519591141396933
+VND-1088,Jones-Young Corp,Corporate Legal,Low,12670632.58,588,10,105,4.8979591836734695
+VND-1089,"Washington, Ryan and Cummings Group",Marketing & Sales,Medium,11237603.91,1239,26,157,4.184826472962066
+VND-1090,"Johnston, Sanchez and Kennedy Services",Information Technology,Low,15457202.17,1322,22,192,4.2208774583963695
+VND-1091,Lee-Davis Group,Information Technology,Low,15458858.42,1323,24,164,3.688586545729403
+VND-1092,Gomez-Jenkins Services,Marketing & Sales,Low,13843357.86,1268,22,163,4.1995268138801265
+VND-1093,"Brown, Valdez and Lucas Inc",Operations & Logistics,Low,10953473.48,903,24,141,4.579180509413067
+VND-1094,Powell LLC Solutions,Operations & Logistics,High,11047180.6,892,18,117,3.867713004484305
+VND-1095,Wright and Sons Services,Operations & Logistics,Low,8719310.27,806,24,110,4.106699751861042
+VND-1096,"West, Henderson and Ramirez Corp",Finance & Administration,Low,13211920.59,826,22,142,5.199757869249395
+VND-1097,Baxter Inc Services,Finance & Administration,Low,10297987.9,785,4,114,4.076433121019108
+VND-1098,Morton-Chase Solutions,Operations & Logistics,Low,10824084.62,835,12,122,4.3053892215568865
+VND-1099,Williams PLC LLC,Marketing & Sales,Low,11609550.26,1212,18,152,4.224422442244224
+VND-1100,Novak and Sons Group,Operations & Logistics,Low,12874958.92,891,16,134,4.7699214365881035
+VND-1101,Russell Group LLC,Marketing & Sales,Low,12077729.450000001,1276,30,161,4.275078369905956
+VND-1102,Hancock Inc LLC,Finance & Administration,Low,10326393.26,788,18,127,4.663705583756345

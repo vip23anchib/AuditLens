@@ -1,0 +1,7 @@
+department,Total_Spend,Transaction_Count,Avg_Transaction_Size,High_Risk_Transactions,DepartmentKey,Risk_Concentration_Pct
+Corporate Legal,207688035.75,12142,17104.92799785867,405,1,3.34
+Finance & Administration,188167897.46,14061,13382.255704430696,500,2,3.56
+Human Resources,101871552.29,14222,7162.9554415694,552,3,3.88
+Information Technology,300225961.35,24325,12342.28001438849,859,4,3.53
+Marketing & Sales,192938010.66,20153,9573.66201855803,831,5,4.12
+Operations & Logistics,192753993.76,16147,11937.449294605809,567,6,3.51

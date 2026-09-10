@@ -1,0 +1,36 @@
+{
+  "name": "AuditLens Corporate Forensic Theme",
+  "dataColors": [
+    "#1e293b",
+    "#e74c3c",
+    "#f59e0b",
+    "#0284c7",
+    "#10b981",
+    "#6366f1",
+    "#8b5cf6",
+    "#64748b"
+  ],
+  "background": "#f8fafc",
+  "foreground": "#0f172a",
+  "tableAccent": "#1e293b",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "fontSize": 12,
+          "fontFamily": "Segoe UI Semibold",
+          "color": { "solid": { "color": "#0f172a" } }
+        }],
+        "background": [{
+          "transparency": 0,
+          "color": { "solid": { "color": "#ffffff" } }
+        }],
+        "border": [{
+          "show": true,
+          "color": { "solid": { "color": "#e2e8f0" } },
+          "radius": 6
+        }]
+      }
+    }
+  }
+}
