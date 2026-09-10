@@ -1,0 +1,2 @@
+Total_Transactions,Total_Spend_USD,Total_Flagged_Transactions,Total_Flagged_Spend_USD,Critical_Risk_Count,Critical_Risk_Spend_USD,High_Risk_Count,High_Risk_Spend_USD,Duplicate_Invoices_Count,Structuring_Anomalies_Count,Weekend_Spend_Anomalies_Count
+101050,1183645451.27,14054,625057540.9100001,448,27403542.34,3266,160456970.56,2084,4319,4743
